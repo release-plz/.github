@@ -3,5 +3,5 @@
 ## AI Disclosure
 
 <!--
-Describe how you used AI tools in this contribution. If you did not use any AI tools, you can delete this section or write "N/A".
+Describe how you used AI tools in this contribution. If you did not use any AI tools, write "N/A".
 -->
