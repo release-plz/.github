@@ -10,12 +10,6 @@ must be in a quote block (e.g., using `>`) and disclosed as such. It must be
 accompanied by human commentary explaining the relevance and implications of
 the context.
 
-## Disclosure
-
-You **must** disclose the use of AI tools in your contributions. You
-**must** perform this disclosure through the pull request template; filing
-PRs without using the pull request template is a violation of this policy.
-
 ## Translations
 
 AI is useful when communicating as a non-native English speaker. If you are
@@ -36,7 +30,6 @@ Examples of things that are not allowed:
   without understanding the question or the response.
   In other words, you should not "play telephone" between your AI-generated code,
   the reviewer, and the AI tool.
-
 
 ## Inspiration
 
